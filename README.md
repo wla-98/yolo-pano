@@ -1,6 +1,3 @@
-Here's a GitHub Markdown (README.md) file for your project:
- 
-```markdown 
 AI-Powered Real-Time Object Tracking System 
  
 !
